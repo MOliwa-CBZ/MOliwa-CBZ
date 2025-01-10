@@ -14,3 +14,7 @@ Na koniec dowcip:
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+Link do strony z moją **NAJWIĘKSZĄ** pasją:
+[Hobby](https://moliwa-cbz.github.io/)
