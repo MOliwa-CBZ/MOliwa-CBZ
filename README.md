@@ -18,3 +18,7 @@ Na koniec dowcip:
 
 Link do strony z moją **NAJWIĘKSZĄ** pasją:
 [Hobby](https://moliwa-cbz.github.io/)
+
+Link do arytkułu(i forka) dotyczącego modelu i zestawu danych ułatwiającego wykrywanie Fake News'ów:
+- [Artykuł](https://paperswithcode.com/paper/from-scarcity-to-capability-empowering-fake)
+- [Fork](https://github.com/MOliwa-CBZ/IndoNLP)
