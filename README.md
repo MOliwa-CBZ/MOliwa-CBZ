@@ -1,4 +1,4 @@
-## lasciate ogni speranza, voi ch'entrate
+## Lasciate ogni speranza, voi ch'entrate
 Jestem pasjonatem programowania i nowych technologii.
 
 Na moim profilu nie znajdziesz nic, bo jest nowy.
